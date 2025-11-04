@@ -244,7 +244,7 @@ Similar patterns apply to:
 | BR-CL-03 | Tax currency code shall be coded using ISO 4217 | ISO 4217 | fatal |
 | BR-CL-04 | Country codes shall be coded using ISO 3166-1 | ISO 3166-1 alpha-2 | fatal |
 | BR-CL-05 | Item classification identifier scheme identifier shall be coded using UNCL 7143 | UNCL 7143 | fatal |
-| BR-CL-06 | Party legal entity identifier scheme identifier shall be coded using ISO 6523 | ISO 6523 ICD | fatal |
+| BR-CL-06 | Value added tax point date code shall be coded using UNTDID 2005 (see EN 16931-1:2017, Annex C) | UNTDID 2005 | fatal |
 | BR-CL-09 | Payment means code shall be coded using UNCL 4461 | UNCL 4461 | fatal |
 | BR-CL-10 | Unit of measure codes shall be coded according to UN/ECE Recommendation 20 with Recommendation 21 codes | UN/ECE Rec. 20 | fatal |
 | BR-CL-11 | Invoiced item VAT category code shall be coded using UNCL 5305 | UNCL 5305 | fatal |
